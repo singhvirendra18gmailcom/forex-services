@@ -1,2 +1,1 @@
-# Rest-services
-Rest services examples with Spring Boot
+# forex services using spring boot and spring cloud.
